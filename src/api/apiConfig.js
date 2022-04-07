@@ -3,6 +3,6 @@ const apiConfig = {
     apiKey:'7efb5545b20bb9203a985162a530f7fe',
     orignalImage: (imgPath) => `https://image.tmdb.org/t/p/original/${imgPath}`,
     w500Image: (imgPath) => `https://image.tmdb.org/t/p/w500/${imgPath}`
-}
+};
 
 export default apiConfig;

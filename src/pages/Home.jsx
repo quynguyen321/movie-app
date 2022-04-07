@@ -1,5 +1,5 @@
 import React from 'react'
-import HeroSide from '../components/hero-side/HeroSide';
+import HeroSide from '../components/hero-slide/HeroSlide';
 
 const Home = () => {
   return (
